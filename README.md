@@ -1,4 +1,4 @@
 
 merhaba='Merhaba'
-print('{}'.fotmat(merhaba))
+print('{}'.format(merhaba))
 
