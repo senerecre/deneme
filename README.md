@@ -1,1 +1,4 @@
-# deneme1-2
+
+merhaba='Merhaba'
+print('{}'.fotmat(merhaba))
+
